@@ -1,0 +1,1 @@
+Para ejecutar los ejercicios principales y ambos retos, azul y verde, simplemente dale click derecho run y el codigo ya hara todo por su cuenta
