@@ -1,0 +1,1 @@
+Para ejecutar todo, solo hay que darle clic derecho>run `principal.main` a la clase

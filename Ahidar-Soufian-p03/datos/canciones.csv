@@ -1,0 +1,62 @@
+lista;titulo;artista;genero;duracion_seg;reproducciones;fecha_alta
+Entreno;Subida a Cercedilla;Kairo Beats;Electrónica;214;184320;2025-11-03
+Entreno;Último kilómetro;Nerea Okafor;Pop;187;95210;2025-11-03
+Entreno;Barras de acero;MC Tetuán;Rap;198;143870;2025-11-10
+Entreno;Pulso 140;Dúo Mandarina;Electrónica;241;77450;2025-11-10
+Entreno;Sin frenos;Brisa Quintero;Reguetón;176;210540;2025-12-01
+Entreno;Cuesta de Moyano;Los Satélites;Rock;233;45120;2025-12-01
+Entreno;Fuego en la pista;Yusuf y Coral;Reguetón;169;188300;2026-01-15
+Entreno;Respira hondo;Lía Moreno;Pop;205;66700;2026-01-15
+Entreno;Modo bestia;MC Tetuán;Rap;181;158900;2026-02-02
+Entreno;Neón y sudor;Kairo Beats;Electrónica;262;54300;2026-02-02
+Entreno;Rompe el récord;Amara Diallo;R&B;192;101250;2026-03-09
+Entreno;Sprint final;Los Satélites;Rock;158;38900;2026-03-09
+Estudio;Apuntes a las tres;Hana Ríos;Lo-fi;156;233400;2025-10-20
+Estudio;Biblioteca de Moratalaz;Café Doble;Lo-fi;172;121800;2025-10-20
+Estudio;Lluvia en la ventana;Hana Ríos;Lo-fi;188;198760;2025-10-27
+Estudio;Mañana hay examen;Teo Bakari;Indie;203;87430;2025-10-27
+Estudio;Té con limón;Café Doble;Lo-fi;145;64320;2025-11-05
+Estudio;Páginas en blanco;Lucía Wang;Indie;219;43210;2025-11-05
+Estudio;Concentración;Kairo Beats;Electrónica;301;56780;2025-12-12
+Estudio;Silencio azul;Lucía Wang;Indie;tres minutos;12000;2025-12-12
+Estudio;Subrayador amarillo;Hana Ríos;Lo-fi;160;102340;2026-01-08
+Estudio;Ojos cansados;Teo Bakari;Indie;227;39870;2026-01-08
+Estudio;Última revisión;Café Doble;Lo-fi;139;71200;2026-02-20
+Estudio;Calma total;Amara Diallo;R&B;244;58900;2026-02-20
+Fiesta en casa;Bailando en el salón;Brisa Quintero;Reguetón;183;312450;2025-12-20
+Fiesta en casa;Vecinos, perdón;Yusuf y Coral;Pop;171;276300;2025-12-20
+Fiesta en casa;Luces de colores;Dúo Mandarina;Electrónica;222;143200;2025-12-20
+Fiesta en casa;Ritmo en el ascensor;Brisa Quintero;Reguetón;165;298100;2026-01-01
+Fiesta en casa;Hasta que salga el sol;Nerea Okafor;Pop;199;187650;2026-01-01
+Fiesta en casa;Palmas y compás;Rocío Chen;Flamenco fusión;208;99400;2026-01-01
+Fiesta en casa;Microondas;MC Tetuán;Rap;174;121340;2026-02-14
+Fiesta en casa;Confeti;Lía Moreno;Pop;188;154200;2026-02-14
+Fiesta en casa;Microondas;MC Tetuán;Rap;174;121340;2026-02-14
+Fiesta en casa;Último metro;Yusuf y Coral;R&B;205;132980;2026-03-01
+Fiesta en casa;La playlist del primo;Dúo Mandarina;Electrónica;236;88760;2026-03-01
+Fiesta en casa;Sobremesa;Rocío Chen;Flamenco fusión;217;-350;2026-03-01
+Viaje en bus;Línea 27;Teo Bakari;Indie;212;76540;2025-11-18
+Viaje en bus;Auriculares;Lía Moreno;Pop;179;143210;2025-11-18
+Viaje en bus;Ventanilla;Hana Ríos;Lo-fi;166;98760;2025-11-25
+Viaje en bus;Parada solicitada;Los Satélites;Rock;201;52310;2025-11-25
+Viaje en bus;Atasco en la M-30;MC Tetuán;Rap;188;167890;2026-01-20
+Viaje en bus;Batería al 5 %;Amara Diallo;R&B;195;110450;2026-01-20
+Viaje en bus;Kilómetro cero;Rocío Chen;Flamenco fusión;224;69870;2026-02-10
+Viaje en bus;Asiento del fondo;Nerea Okafor;Pop;183;121090;2026-02-10
+Viaje en bus;Nocturno;Kairo Beats;Electrónica;250
+Viaje en bus;Transbordo;Dúo Mandarina;Electrónica;209;61230;2026-03-15
+Viaje en bus;Me quedo dormido;Teo Bakari;Indie;238;45670;2026-03-15
+Viaje en bus;Bajo en la próxima;Lucía Wang;Indie;171;57890;2026-04-02
+
+Domingo chill;Churros a las doce;Café Doble;Lo-fi;151;88760;2025-10-12
+Domingo chill;Sofá y manta;Lucía Wang;Indie;207;65430;2025-10-12
+Domingo chill;Mercadillo;Rocío Chen;Flamenco fusión;232;43210;2025-11-09
+Domingo chill;Planta nueva;Hana Ríos;Lo-fi;164;112300;2025-11-09
+Domingo chill;Pijama hasta tarde;Amara Diallo;R&B;218;76540;2025-12-07
+Domingo chill;Paseo por el Retiro;Teo Bakari;Indie;245;54320;2025-12-07
+Domingo chill;Vermú;Los Satélites;Rock;196;31200;2026-01-11
+Domingo chill;Siesta larga;Café Doble;Lo-fi;188;99870;2026-01-11
+Domingo chill;Llamada a la abuela;Nerea Okafor;Pop;201;87650;2026-02-08
+Domingo chill;Atardecer en Madrid Río;Dúo Mandarina;Electrónica;267;45670;2026-02-08
+Domingo chill;Ropa tendida;Lía Moreno;Pop;176;69000;2026-03-08
+Domingo chill;Lunes otra vez;Yusuf y Coral;R&B;199;101230;2026-03-08
