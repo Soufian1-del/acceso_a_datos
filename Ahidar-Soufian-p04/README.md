@@ -1,0 +1,1 @@
+PARA ejecutar el programa, hay que ejecutar solo principal dandole clic derecho>run 'principal.main'
