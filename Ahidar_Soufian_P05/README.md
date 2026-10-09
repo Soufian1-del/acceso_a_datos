@@ -1,0 +1,1 @@
+para ejecutar el programa solo hay que ejecutar el main de principal 
