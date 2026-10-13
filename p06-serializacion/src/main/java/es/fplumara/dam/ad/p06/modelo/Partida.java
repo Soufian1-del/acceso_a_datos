@@ -15,6 +15,26 @@ public class Partida implements Serializable {
     private double horasJugadas;
     private List<Personaje> grupo;
     private transient String codigoSesion;
+    //reto azul
+    private int oro;
+
+    @Override
+    public String toString() {
+        String fecha = "sin guardar";
+        if (fechaGuardado != null) {
+            fecha = fechaGuardado.toString();
+        }
+        return "Partida de " + jugador + " | " + horasJugadas + " h jugadas | guardada: " + fecha
+                + " | " + grupo.size() + " personajes | " + oro + " monedas de oro";
+    }
+
+    public int getOro() {
+        return oro;
+    }
+
+    public void setOro(int oro) {
+        this.oro = oro;
+    }
 
     public Partida(String jugador, double horasJugadas, List<Personaje> grupo, String codigoSesion) {
         this.jugador = jugador;
@@ -63,13 +83,4 @@ public class Partida implements Serializable {
         this.codigoSesion = codigoSesion;
     }
 
-    @Override
-    public String toString() {
-        String fecha = "sin guardar";
-        if (fechaGuardado != null) {
-            fecha = fechaGuardado.toString();
-        }
-        return "Partida de " + jugador + " | " + horasJugadas + " h jugadas | guardada: " + fecha
-                + " | " + grupo.size() + " personajes";
-    }
 }
