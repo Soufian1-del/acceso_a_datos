@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria nombre="Punto y Aparte">
+    <libro id="1">
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <autor>J. K. Rowling</autor>
+        <genero>Fantasía</genero>
+        <anioPublicacion>1997</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788451884479</isbn>
+                <editorial>Salamandra</editorial>
+                <paginas>256</paginas>
+                <precio>19.00</precio>
+                <stock>4</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788429405576</isbn>
+                <editorial>Salamandra Bolsillo</editorial>
+                <paginas>254</paginas>
+                <precio>9.95</precio>
+                <stock>11</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788461698714</isbn>
+                <editorial>Salamandra Infantil</editorial>
+                <paginas>248</paginas>
+                <precio>39.90</precio>
+                <stock>17</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="2">
+        <titulo>Dune</titulo>
+        <autor>Frank Herbert</autor>
+        <genero>Ciencia ficción</genero>
+        <anioPublicacion>1965</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788468976846</isbn>
+                <editorial>Debolsillo</editorial>
+                <paginas>784</paginas>
+                <precio>13.95</precio>
+                <stock>17</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788469788097</isbn>
+                <editorial>Nova</editorial>
+                <paginas>704</paginas>
+                <precio>24.90</precio>
+                <stock>21</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788432081965</isbn>
+                <editorial>Plaza &amp; Janés</editorial>
+                <paginas>720</paginas>
+                <precio>29.90</precio>
+                <stock>0</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="3">
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <genero>Clásico</genero>
+        <anioPublicacion>1967</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788472731776</isbn>
+                <editorial>Debolsillo</editorial>
+                <paginas>496</paginas>
+                <precio>11.95</precio>
+                <stock>8</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788484864882</isbn>
+                <editorial>Alfaguara</editorial>
+                <paginas>512</paginas>
+                <precio>22.90</precio>
+                <stock>20</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="4">
+        <titulo>Asesinato en el Orient Express</titulo>
+        <autor>Agatha Christie</autor>
+        <genero>Misterio</genero>
+        <anioPublicacion>1934</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788476634400</isbn>
+                <editorial>Espasa</editorial>
+                <paginas>256</paginas>
+                <precio>14.90</precio>
+                <stock>20</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788402978752</isbn>
+                <editorial>Booket</editorial>
+                <paginas>256</paginas>
+                <precio>8.95</precio>
+                <stock>18</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="5">
+        <titulo>It</titulo>
+        <autor>Stephen King</autor>
+        <genero>Terror</genero>
+        <anioPublicacion>1986</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788434778764</isbn>
+                <editorial>Debolsillo</editorial>
+                <paginas>1504</paginas>
+                <precio>16.95</precio>
+                <stock>14</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788480457170</isbn>
+                <editorial>Plaza &amp; Janés</editorial>
+                <paginas>1232</paginas>
+                <precio>29.90</precio>
+                <stock>19</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="6">
+        <titulo>One Piece n.º 1</titulo>
+        <autor>Eiichiro Oda</autor>
+        <genero>Cómic</genero>
+        <anioPublicacion>1997</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788484726715</isbn>
+                <editorial>Planeta Cómic</editorial>
+                <paginas>208</paginas>
+                <precio>8.95</precio>
+                <stock>18</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="7">
+        <titulo>Los juegos del hambre</titulo>
+        <autor>Suzanne Collins</autor>
+        <genero>Juvenil</genero>
+        <anioPublicacion>2008</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788447513628</isbn>
+                <editorial>Molino</editorial>
+                <paginas>400</paginas>
+                <precio>17.95</precio>
+                <stock>24</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788470107986</isbn>
+                <editorial>Debolsillo</editorial>
+                <paginas>397</paginas>
+                <precio>9.95</precio>
+                <stock>25</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="8">
+        <titulo>La comunidad del anillo</titulo>
+        <autor>J. R. R. Tolkien</autor>
+        <genero>Fantasía</genero>
+        <anioPublicacion>1954</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788419331908</isbn>
+                <editorial>Minotauro</editorial>
+                <paginas>576</paginas>
+                <precio>24.90</precio>
+                <stock>25</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788484520597</isbn>
+                <editorial>Booket</editorial>
+                <paginas>568</paginas>
+                <precio>11.95</precio>
+                <stock>16</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="9">
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <genero>Ciencia ficción</genero>
+        <anioPublicacion>1949</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788497283793</isbn>
+                <editorial>Debolsillo</editorial>
+                <paginas>352</paginas>
+                <precio>10.95</precio>
+                <stock>0</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788429841626</isbn>
+                <editorial>Destino</editorial>
+                <paginas>336</paginas>
+                <precio>18.90</precio>
+                <stock>25</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="10">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <genero>Clásico</genero>
+        <anioPublicacion>1605</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788429486629</isbn>
+                <editorial>Alfaguara</editorial>
+                <paginas>1376</paginas>
+                <precio>24.90</precio>
+                <stock>19</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788483601617</isbn>
+                <editorial>Austral</editorial>
+                <paginas>1104</paginas>
+                <precio>14.95</precio>
+                <stock>15</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788405500875</isbn>
+                <editorial>Vicens Vives</editorial>
+                <paginas>1184</paginas>
+                <precio>19.90</precio>
+                <stock>8</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="11">
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <genero>Misterio</genero>
+        <anioPublicacion>2001</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788454751778</isbn>
+                <editorial>Planeta</editorial>
+                <paginas>576</paginas>
+                <precio>21.90</precio>
+                <stock>1</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788499229836</isbn>
+                <editorial>Booket</editorial>
+                <paginas>576</paginas>
+                <precio>10.95</precio>
+                <stock>20</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="12">
+        <titulo>Drácula</titulo>
+        <autor>Bram Stoker</autor>
+        <genero>Terror</genero>
+        <anioPublicacion>1897</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788469579312</isbn>
+                <editorial>Alianza Editorial</editorial>
+                <paginas>560</paginas>
+                <precio>13.95</precio>
+                <stock>3</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788486032081</isbn>
+                <editorial>Penguin Clásicos</editorial>
+                <paginas>512</paginas>
+                <precio>10.95</precio>
+                <stock>4</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788407370285</isbn>
+                <editorial>Austral</editorial>
+                <paginas>544</paginas>
+                <precio>9.95</precio>
+                <stock>10</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="13">
+        <titulo>El nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <genero>Fantasía</genero>
+        <anioPublicacion>2007</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788438222645</isbn>
+                <editorial>Plaza &amp; Janés</editorial>
+                <paginas>880</paginas>
+                <precio>23.90</precio>
+                <stock>4</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788468616421</isbn>
+                <editorial>Debolsillo</editorial>
+                <paginas>880</paginas>
+                <precio>13.95</precio>
+                <stock>15</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788452477649</isbn>
+                <editorial>Plaza &amp; Janés</editorial>
+                <paginas>896</paginas>
+                <precio>34.90</precio>
+                <stock>0</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="14">
+        <titulo>El problema de los tres cuerpos</titulo>
+        <autor>Liu Cixin</autor>
+        <genero>Ciencia ficción</genero>
+        <anioPublicacion>2008</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788472587717</isbn>
+                <editorial>Nova</editorial>
+                <paginas>416</paginas>
+                <precio>21.90</precio>
+                <stock>22</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788488413307</isbn>
+                <editorial>B de Bolsillo</editorial>
+                <paginas>416</paginas>
+                <precio>11.95</precio>
+                <stock>16</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="15">
+        <titulo>Watchmen</titulo>
+        <autor>Alan Moore</autor>
+        <genero>Cómic</genero>
+        <anioPublicacion>1987</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788417568207</isbn>
+                <editorial>ECC Ediciones</editorial>
+                <paginas>448</paginas>
+                <precio>45.00</precio>
+                <stock>22</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="16">
+        <titulo>Orgullo y prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <genero>Clásico</genero>
+        <anioPublicacion>1813</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788452589830</isbn>
+                <editorial>Penguin Clásicos</editorial>
+                <paginas>432</paginas>
+                <precio>9.95</precio>
+                <stock>11</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788419489395</isbn>
+                <editorial>Alba Editorial</editorial>
+                <paginas>520</paginas>
+                <precio>22.00</precio>
+                <stock>7</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="17">
+        <titulo>El principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <genero>Juvenil</genero>
+        <anioPublicacion>1943</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788449482144</isbn>
+                <editorial>Salamandra</editorial>
+                <paginas>96</paginas>
+                <precio>9.95</precio>
+                <stock>13</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788416210527</isbn>
+                <editorial>Salamandra Bolsillo</editorial>
+                <paginas>96</paginas>
+                <precio>6.95</precio>
+                <stock>9</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788418549144</isbn>
+                <editorial>Edelvives</editorial>
+                <paginas>96</paginas>
+                <precio>12.00</precio>
+                <stock>12</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="18">
+        <titulo>La chica del tren</titulo>
+        <autor>Paula Hawkins</autor>
+        <genero>Misterio</genero>
+        <anioPublicacion>2015</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788452441060</isbn>
+                <editorial>Planeta</editorial>
+                <paginas>496</paginas>
+                <precio>19.90</precio>
+                <stock>12</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788446001300</isbn>
+                <editorial>Booket</editorial>
+                <paginas>496</paginas>
+                <precio>9.95</precio>
+                <stock>13</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="19">
+        <titulo>Fahrenheit 451</titulo>
+        <autor>Ray Bradbury</autor>
+        <genero>Ciencia ficción</genero>
+        <anioPublicacion>1953</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788441189553</isbn>
+                <editorial>Debolsillo</editorial>
+                <paginas>192</paginas>
+                <precio>9.95</precio>
+                <stock>0</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788479906597</isbn>
+                <editorial>Minotauro</editorial>
+                <paginas>176</paginas>
+                <precio>17.95</precio>
+                <stock>17</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+    <libro id="20">
+        <titulo>Alas de sangre</titulo>
+        <autor>Rebecca Yarros</autor>
+        <genero>Fantasía</genero>
+        <anioPublicacion>2023</anioPublicacion>
+        <ediciones>
+            <edicion>
+                <isbn>9788439761587</isbn>
+                <editorial>Planeta</editorial>
+                <paginas>736</paginas>
+                <precio>22.90</precio>
+                <stock>21</stock>
+            </edicion>
+            <edicion>
+                <isbn>9788446450603</isbn>
+                <editorial>Booket</editorial>
+                <paginas>720</paginas>
+                <precio>11.95</precio>
+                <stock>3</stock>
+            </edicion>
+        </ediciones>
+    </libro>
+</libreria>
