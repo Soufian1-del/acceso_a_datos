@@ -1,0 +1,411 @@
+[
+  {
+    "id": "F01",
+    "nombre": "Brisa Norte",
+    "ciudad": "Gijón",
+    "fechaInicio": "2027-06-11",
+    "dias": 3,
+    "precio": 95.0,
+    "agotado": false,
+    "generos": [
+      "Indie",
+      "Pop"
+    ],
+    "cabezasCartel": [
+      "Lúa Ferreiro",
+      "Los Satélites Tristes"
+    ]
+  },
+  {
+    "id": "F02",
+    "nombre": "Calima Fest",
+    "ciudad": "Las Palmas de Gran Canaria",
+    "fechaInicio": "2027-06-18",
+    "dias": 2,
+    "precio": 65.0,
+    "agotado": false,
+    "generos": [
+      "Reguetón",
+      "Urbano"
+    ],
+    "cabezasCartel": [
+      "Nayra Santana",
+      "DJ Malecón"
+    ]
+  },
+  {
+    "id": "F03",
+    "nombre": "Ruido Rosa",
+    "ciudad": "Madrid",
+    "fechaInicio": "2027-06-25",
+    "dias": 3,
+    "precio": 120.0,
+    "agotado": true,
+    "generos": [
+      "Pop",
+      "Electrónica"
+    ],
+    "cabezasCartel": [
+      "Amaia Torre",
+      "Kofi Mensah"
+    ]
+  },
+  {
+    "id": "F04",
+    "nombre": "Sierra Sonora",
+    "ciudad": "Granada",
+    "fechaInicio": "2027-07-02",
+    "dias": 2,
+    "precio": 55.0,
+    "agotado": false,
+    "generos": [
+      "Flamenco",
+      "Fusión"
+    ],
+    "cabezasCartel": [
+      "Rocío del Albaicín",
+      "Trío Zambra Nueva"
+    ]
+  },
+  {
+    "id": "F05",
+    "nombre": "Marea Alta",
+    "ciudad": "Castellón de la Plana",
+    "fechaInicio": "2027-07-09",
+    "dias": 4,
+    "precio": 140.0,
+    "agotado": true,
+    "generos": [
+      "Indie",
+      "Rock"
+    ],
+    "cabezasCartel": [
+      "Los Faros Rotos",
+      "Mei Lin"
+    ]
+  },
+  {
+    "id": "F06",
+    "nombre": "Asfalto Beat",
+    "ciudad": "Barcelona",
+    "fechaInicio": "2027-07-09",
+    "dias": 3,
+    "precio": 110.0,
+    "agotado": false,
+    "generos": [
+      "Hip hop",
+      "Urbano"
+    ],
+    "cabezasCartel": [
+      "Yusuf MC",
+      "La Kasba Crew"
+    ]
+  },
+  {
+    "id": "F07",
+    "nombre": "Valle Eléctrico",
+    "ciudad": "Bilbao",
+    "fechaInicio": "2027-07-16",
+    "dias": 2,
+    "precio": 85.0,
+    "agotado": false,
+    "generos": [
+      "Electrónica",
+      "Techno"
+    ],
+    "cabezasCartel": [
+      "Ibai Larrea",
+      "Sintética"
+    ]
+  },
+  {
+    "id": "F08",
+    "nombre": "Ondas del Sur",
+    "ciudad": "Almería",
+    "fechaInicio": "2027-07-15",
+    "dias": 3,
+    "precio": 70.0,
+    "agotado": false,
+    "generos": [
+      "Pop",
+      "Indie",
+      "Flamenco"
+    ],
+    "cabezasCartel": [
+      "Carmen Vidal",
+      "Los Nómadas del Cabo"
+    ]
+  },
+  {
+    "id": "F09",
+    "nombre": "Corazón de Trap",
+    "ciudad": "Valencia",
+    "fechaInicio": "2027-07-23",
+    "dias": 2,
+    "precio": 75.0,
+    "agotado": true,
+    "generos": [
+      "Trap",
+      "Urbano"
+    ],
+    "cabezasCartel": [
+      "Lil Ámbar",
+      "Dano Kiwi"
+    ]
+  },
+  {
+    "id": "F10",
+    "nombre": "Pueblo Rock",
+    "ciudad": "Teruel",
+    "fechaInicio": "2027-07-30",
+    "dias": 2,
+    "precio": 45.0,
+    "agotado": false,
+    "generos": [
+      "Rock",
+      "Punk"
+    ],
+    "cabezasCartel": [
+      "Los Cuervos de Hojalata",
+      "Andrea Petrova"
+    ]
+  },
+  {
+    "id": "F11",
+    "nombre": "Luna Llena",
+    "ciudad": "Cádiz",
+    "fechaInicio": "2027-08-06",
+    "dias": 3,
+    "precio": 90.0,
+    "agotado": false,
+    "generos": [
+      "Reggae",
+      "Fusión"
+    ],
+    "cabezasCartel": [
+      "Kwame Asante",
+      "Sal y Limón"
+    ]
+  },
+  {
+    "id": "F12",
+    "nombre": "Neón Club Fest",
+    "ciudad": "Madrid",
+    "fechaInicio": "2027-08-13",
+    "dias": 2,
+    "precio": 130.0,
+    "agotado": true,
+    "generos": [
+      "Electrónica",
+      "House"
+    ],
+    "cabezasCartel": [
+      "Nora Kim",
+      "DJ Vértigo"
+    ]
+  },
+  {
+    "id": "F13",
+    "nombre": "Campo Abierto",
+    "ciudad": "Salamanca",
+    "fechaInicio": "2027-08-20",
+    "dias": 3,
+    "precio": 60.0,
+    "agotado": false,
+    "generos": [
+      "Folk",
+      "Indie"
+    ],
+    "cabezasCartel": [
+      "Hermanas Quiroga",
+      "El Pastor Eléctrico"
+    ]
+  },
+  {
+    "id": "F14",
+    "nombre": "Puerto Jazz",
+    "ciudad": "Santander",
+    "fechaInicio": "2027-07-20",
+    "dias": 4,
+    "precio": 80.0,
+    "agotado": false,
+    "generos": [
+      "Jazz",
+      "Soul"
+    ],
+    "cabezasCartel": [
+      "Aisha Bello Quartet",
+      "Martín Oyarzun"
+    ]
+  },
+  {
+    "id": "F15",
+    "nombre": "Bahía Latina",
+    "ciudad": "Málaga",
+    "fechaInicio": "2027-08-27",
+    "dias": 2,
+    "precio": 68.0,
+    "agotado": false,
+    "generos": [
+      "Salsa",
+      "Bachata",
+      "Reguetón"
+    ],
+    "cabezasCartel": [
+      "Orquesta Caribe Azul",
+      "Yaritza Mendoza"
+    ]
+  },
+  {
+    "id": "F16",
+    "nombre": "Metal del Norte",
+    "ciudad": "Lugo",
+    "fechaInicio": "2027-08-05",
+    "dias": 3,
+    "precio": 99.0,
+    "agotado": false,
+    "generos": [
+      "Metal",
+      "Rock"
+    ],
+    "cabezasCartel": [
+      "Acero Gris",
+      "Tormenta Boreal"
+    ]
+  },
+  {
+    "id": "F17",
+    "nombre": "Bosque Acústico",
+    "ciudad": "Huesca",
+    "fechaInicio": "2027-06-26",
+    "dias": 1,
+    "precio": 25.0,
+    "agotado": false,
+    "generos": [
+      "Folk",
+      "Cantautor"
+    ],
+    "cabezasCartel": [
+      "Iñaki Soto",
+      "Valeria Duarte"
+    ]
+  },
+  {
+    "id": "F18",
+    "nombre": "Tarde de K-Pop",
+    "ciudad": "Zaragoza",
+    "fechaInicio": "2027-07-03",
+    "dias": 1,
+    "precio": 40.0,
+    "agotado": true,
+    "generos": [
+      "K-Pop",
+      "Pop"
+    ],
+    "cabezasCartel": [
+      "Estrella Fugaz",
+      "Cinco Lunas"
+    ]
+  },
+  {
+    "id": "F19",
+    "nombre": "Verano Indie",
+    "ciudad": "Murcia",
+    "fechaInicio": "2027-07-01",
+    "dias": 3,
+    "precio": 105.0,
+    "agotado": false,
+    "generos": [
+      "Indie",
+      "Pop"
+    ],
+    "cabezasCartel": [
+      "Las Gaviotas",
+      "Omar Haddad"
+    ]
+  },
+  {
+    "id": "F20",
+    "nombre": "Raíces",
+    "ciudad": "Mérida",
+    "fechaInicio": "2027-09-03",
+    "dias": 2,
+    "precio": 50.0,
+    "agotado": false,
+    "generos": [
+      "Flamenco",
+      "Folk"
+    ],
+    "cabezasCartel": [
+      "La Niña de Tierra Roja",
+      "Guillermo Achá"
+    ]
+  },
+  {
+    "id": "F21",
+    "nombre": "Electrolago",
+    "ciudad": "Pamplona",
+    "fechaInicio": "2027-09-10",
+    "dias": 2,
+    "precio": 72.0,
+    "agotado": false,
+    "generos": [
+      "Electrónica"
+    ],
+    "cabezasCartel": [
+      "Sintética",
+      "Lucía Montes"
+    ]
+  },
+  {
+    "id": "F22",
+    "nombre": "Rimas en la Plaza",
+    "ciudad": "Sevilla",
+    "fechaInicio": "2027-09-17",
+    "dias": 1,
+    "precio": 30.0,
+    "agotado": true,
+    "generos": [
+      "Hip hop",
+      "Rap"
+    ],
+    "cabezasCartel": [
+      "Bea Rima",
+      "Dos Calles"
+    ]
+  },
+  {
+    "id": "F23",
+    "nombre": "Hielo y Fuego",
+    "ciudad": "Valladolid",
+    "fechaInicio": "2027-09-24",
+    "dias": 2,
+    "precio": 88.0,
+    "agotado": false,
+    "generos": [
+      "Rock",
+      "Indie"
+    ],
+    "cabezasCartel": [
+      "Los Faros Rotos",
+      "Ximena Ruiz"
+    ]
+  },
+  {
+    "id": "F24",
+    "nombre": "Fin de Verano",
+    "ciudad": "Alicante",
+    "fechaInicio": "2027-09-30",
+    "dias": 3,
+    "precio": 115.0,
+    "agotado": true,
+    "generos": [
+      "Pop",
+      "Urbano"
+    ],
+    "cabezasCartel": [
+      "Amaia Torre",
+      "Nayra Santana"
+    ]
+  }
+]

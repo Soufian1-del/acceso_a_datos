@@ -1,0 +1,133 @@
+{
+  "festival": "Ondas del Sur",
+  "edicion": 6,
+  "ciudad": "Almería",
+  "recinto": "Explanada del Puerto",
+  "dias": [
+    {
+      "fecha": "2027-07-15",
+      "escenarios": [
+        {
+          "nombre": "Escenario Mar",
+          "actuaciones": [
+            {
+              "artista": "Lucía Montes",
+              "hora_inicio": "19:00",
+              "duracion_min": 60
+            },
+            {
+              "artista": "Los Nómadas del Cabo",
+              "hora_inicio": "20:30",
+              "duracion_min": 60
+            },
+            {
+              "artista": "Carmen Vidal",
+              "hora_inicio": "22:30",
+              "duracion_min": 90
+            }
+          ]
+        },
+        {
+          "nombre": "Carpa Duna",
+          "actuaciones": [
+            {
+              "artista": "Trío Zambra Nueva",
+              "hora_inicio": "20:00",
+              "duracion_min": 45
+            },
+            {
+              "artista": "Kofi Mensah",
+              "hora_inicio": "23:00",
+              "duracion_min": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fecha": "2027-07-16",
+      "escenarios": [
+        {
+          "nombre": "Escenario Mar",
+          "actuaciones": [
+            {
+              "artista": "Las Gaviotas",
+              "hora_inicio": "19:00",
+              "duracion_min": 60
+            },
+            {
+              "artista": "Omar Haddad",
+              "hora_inicio": "20:30",
+              "duracion_min": 60
+            },
+            {
+              "artista": "Amaia Torre",
+              "hora_inicio": "22:30",
+              "duracion_min": 90
+            }
+          ]
+        },
+        {
+          "nombre": "Carpa Duna",
+          "actuaciones": [
+            {
+              "artista": "Valeria Duarte",
+              "hora_inicio": "19:30",
+              "duracion_min": 45
+            },
+            {
+              "artista": "Rocío del Albaicín",
+              "hora_inicio": "21:00",
+              "duracion_min": 60
+            },
+            {
+              "artista": "DJ Malecón",
+              "hora_inicio": "00:00",
+              "duracion_min": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fecha": "2027-07-17",
+      "escenarios": [
+        {
+          "nombre": "Escenario Mar",
+          "actuaciones": [
+            {
+              "artista": "Mei Lin",
+              "hora_inicio": "19:00",
+              "duracion_min": 60
+            },
+            {
+              "artista": "Hermanas Quiroga",
+              "hora_inicio": "20:30",
+              "duracion_min": 60
+            },
+            {
+              "artista": "Los Faros Rotos",
+              "hora_inicio": "22:30",
+              "duracion_min": 90
+            }
+          ]
+        },
+        {
+          "nombre": "Carpa Duna",
+          "actuaciones": [
+            {
+              "artista": "Andrea Petrova",
+              "hora_inicio": "20:00",
+              "duracion_min": 45
+            },
+            {
+              "artista": "Nora Kim",
+              "hora_inicio": "23:30",
+              "duracion_min": 60
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

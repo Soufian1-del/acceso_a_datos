@@ -1,0 +1,91 @@
+[ {
+  "id" : "F02",
+  "nombre" : "Calima Fest",
+  "ciudad" : "Las Palmas de Gran Canaria",
+  "fechaInicio" : "2027-06-18",
+  "dias" : 2,
+  "precio" : 65.0,
+  "agotado" : false,
+  "generos" : [ "Reguetón", "Urbano" ],
+  "cabezasCartel" : [ "Nayra Santana", "DJ Malecón" ]
+}, {
+  "id" : "F04",
+  "nombre" : "Sierra Sonora",
+  "ciudad" : "Granada",
+  "fechaInicio" : "2027-07-02",
+  "dias" : 2,
+  "precio" : 55.0,
+  "agotado" : false,
+  "generos" : [ "Flamenco", "Fusión" ],
+  "cabezasCartel" : [ "Rocío del Albaicín", "Trío Zambra Nueva" ]
+}, {
+  "id" : "F08",
+  "nombre" : "Ondas del Sur",
+  "ciudad" : "Almería",
+  "fechaInicio" : "2027-07-15",
+  "dias" : 3,
+  "precio" : 70.0,
+  "agotado" : false,
+  "generos" : [ "Pop", "Indie", "Flamenco" ],
+  "cabezasCartel" : [ "Carmen Vidal", "Los Nómadas del Cabo" ]
+}, {
+  "id" : "F10",
+  "nombre" : "Pueblo Rock",
+  "ciudad" : "Teruel",
+  "fechaInicio" : "2027-07-30",
+  "dias" : 2,
+  "precio" : 45.0,
+  "agotado" : false,
+  "generos" : [ "Rock", "Punk" ],
+  "cabezasCartel" : [ "Los Cuervos de Hojalata", "Andrea Petrova" ]
+}, {
+  "id" : "F13",
+  "nombre" : "Campo Abierto",
+  "ciudad" : "Salamanca",
+  "fechaInicio" : "2027-08-20",
+  "dias" : 3,
+  "precio" : 60.0,
+  "agotado" : false,
+  "generos" : [ "Folk", "Indie" ],
+  "cabezasCartel" : [ "Hermanas Quiroga", "El Pastor Eléctrico" ]
+}, {
+  "id" : "F15",
+  "nombre" : "Bahía Latina",
+  "ciudad" : "Málaga",
+  "fechaInicio" : "2027-08-27",
+  "dias" : 2,
+  "precio" : 68.0,
+  "agotado" : false,
+  "generos" : [ "Salsa", "Bachata", "Reguetón" ],
+  "cabezasCartel" : [ "Orquesta Caribe Azul", "Yaritza Mendoza" ]
+}, {
+  "id" : "F17",
+  "nombre" : "Bosque Acústico",
+  "ciudad" : "Huesca",
+  "fechaInicio" : "2027-06-26",
+  "dias" : 1,
+  "precio" : 25.0,
+  "agotado" : false,
+  "generos" : [ "Folk", "Cantautor" ],
+  "cabezasCartel" : [ "Iñaki Soto", "Valeria Duarte" ]
+}, {
+  "id" : "F20",
+  "nombre" : "Raíces",
+  "ciudad" : "Mérida",
+  "fechaInicio" : "2027-09-03",
+  "dias" : 2,
+  "precio" : 50.0,
+  "agotado" : false,
+  "generos" : [ "Flamenco", "Folk" ],
+  "cabezasCartel" : [ "La Niña de Tierra Roja", "Guillermo Achá" ]
+}, {
+  "id" : "F21",
+  "nombre" : "Electrolago",
+  "ciudad" : "Pamplona",
+  "fechaInicio" : "2027-09-10",
+  "dias" : 2,
+  "precio" : 72.0,
+  "agotado" : false,
+  "generos" : [ "Electrónica" ],
+  "cabezasCartel" : [ "Sintética", "Lucía Montes" ]
+} ]

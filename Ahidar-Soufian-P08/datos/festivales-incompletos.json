@@ -1,0 +1,117 @@
+[
+  {
+    "id": "F30",
+    "nombre": "Noches de Albahaca",
+    "ciudad": "Toledo",
+    "fechaInicio": "2027-07-08",
+    "dias": 2,
+    "precio": 58.0,
+    "agotado": false,
+    "generos": [
+      "Pop",
+      "Indie"
+    ],
+    "cabezasCartel": [
+      "Sara Benali",
+      "Los Grillos"
+    ]
+  },
+  {
+    "id": "F31",
+    "nombre": "Costa Brava Beats",
+    "ciudad": "Girona",
+    "fechaInicio": "2027-07-22",
+    "dias": 3,
+    "agotado": false,
+    "generos": [
+      "Electrónica"
+    ],
+    "cabezasCartel": [
+      "DJ Medusa",
+      "Pol Ferrer"
+    ]
+  },
+  {
+    "id": "F32",
+    "nombre": "Sonidos del Ebro",
+    "ciudad": "Logroño",
+    "fechaInicio": "2027-08-12",
+    "dias": "tres",
+    "precio": 62.0,
+    "agotado": false,
+    "generos": [
+      "Rock",
+      "Folk"
+    ],
+    "cabezasCartel": [
+      "Los Viñadores",
+      "Elena Rus"
+    ]
+  },
+  {
+    "id": "F33",
+    "nombre": "Rumba Total",
+    "ciudad": "Córdoba",
+    "fechaInicio": "2027-08-19",
+    "dias": 2,
+    "precio": -10.0,
+    "agotado": false,
+    "generos": [
+      "Rumba",
+      "Flamenco"
+    ],
+    "cabezasCartel": [
+      "Primos del Patio",
+      "Mara Heredia"
+    ]
+  },
+  {
+    "id": "F34",
+    "nombre": "",
+    "ciudad": "Badajoz",
+    "fechaInicio": "2027-08-26",
+    "dias": 1,
+    "precio": 35.0,
+    "agotado": false,
+    "generos": [
+      "Urbano"
+    ],
+    "cabezasCartel": [
+      "Kaleo Bass",
+      "Ruth Okafor"
+    ]
+  },
+  {
+    "id": "F35",
+    "nombre": "Altamar Soul",
+    "ciudad": "A Coruña",
+    "fechaInicio": "2027-09-02",
+    "dias": 2,
+    "precio": 74.0,
+    "agotado": true,
+    "generos": [
+      "Soul",
+      "Funk"
+    ],
+    "cabezasCartel": [
+      "Brenda Alves",
+      "The Mareas"
+    ]
+  },
+  {
+    "id": "F36",
+    "nombre": "Último Tren",
+    "ciudad": "León",
+    "fechaInicio": "2027-09-09",
+    "dias": 0,
+    "precio": 40.0,
+    "agotado": false,
+    "generos": [
+      "Indie"
+    ],
+    "cabezasCartel": [
+      "Andén Cuatro",
+      "Hugo Lin"
+    ]
+  }
+]

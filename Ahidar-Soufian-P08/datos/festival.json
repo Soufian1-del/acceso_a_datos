@@ -1,0 +1,18 @@
+{
+  "id": "F08",
+  "nombre": "Ondas del Sur",
+  "ciudad": "Almería",
+  "fechaInicio": "2027-07-15",
+  "dias": 3,
+  "precio": 70.0,
+  "agotado": false,
+  "generos": [
+    "Pop",
+    "Indie",
+    "Flamenco"
+  ],
+  "cabezasCartel": [
+    "Carmen Vidal",
+    "Los Nómadas del Cabo"
+  ]
+}

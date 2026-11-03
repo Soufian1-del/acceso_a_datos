@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo plataforma="Órbita Play">
+  <serie id="S01">
+    <titulo>Ciudad de Neón</titulo>
+    <genero>Ciencia ficción</genero>
+    <anio>2022</anio>
+    <temporadas>3</temporadas>
+    <valoracion>8.7</valoracion>
+  </serie>
+  <serie id="S02">
+    <titulo>La Última Guardia</titulo>
+    <genero>Drama</genero>
+    <anio>2019</anio>
+    <temporadas>4</temporadas>
+    <valoracion>8.2</valoracion>
+  </serie>
+  <serie id="S03">
+    <titulo>Pisos Compartidos</titulo>
+    <genero>Comedia</genero>
+    <anio>2021</anio>
+    <temporadas>2</temporadas>
+    <valoracion>7.4</valoracion>
+  </serie>
+  <serie id="S04">
+    <titulo>Ecos del Fondo</titulo>
+    <genero>Thriller</genero>
+    <anio>2023</anio>
+    <temporadas>1</temporadas>
+    <valoracion>8.9</valoracion>
+  </serie>
+  <serie id="S05">
+    <titulo>Bichos de Barrio</titulo>
+    <genero>Animación</genero>
+    <anio>2018</anio>
+    <temporadas>5</temporadas>
+    <valoracion>7.9</valoracion>
+  </serie>
+  <serie id="S06">
+    <titulo>Rutas de Sal</titulo>
+    <genero>Documental</genero>
+    <anio>2020</anio>
+    <temporadas>2</temporadas>
+    <valoracion>8.1</valoracion>
+  </serie>
+  <serie id="S07">
+    <titulo>El Reino Dormido</titulo>
+    <genero>Fantasía</genero>
+    <anio>2017</anio>
+    <temporadas>6</temporadas>
+    <valoracion>7.6</valoracion>
+  </serie>
+  <serie id="S08">
+    <titulo>Turno de Noche</titulo>
+    <genero>Drama</genero>
+    <anio>2024</anio>
+    <temporadas>1</temporadas>
+    <valoracion>8.4</valoracion>
+  </serie>
+  <serie id="S09">
+    <titulo>Código Lunar</titulo>
+    <genero>Ciencia ficción</genero>
+    <anio>2016</anio>
+    <temporadas>4</temporadas>
+    <valoracion>6.9</valoracion>
+  </serie>
+  <serie id="S10">
+    <titulo>Primer Año</titulo>
+    <genero>Comedia</genero>
+    <anio>2023</anio>
+    <temporadas>2</temporadas>
+    <valoracion>7.1</valoracion>
+  </serie>
+  <serie id="S11">
+    <titulo>Señal Perdida</titulo>
+    <genero>Thriller</genero>
+    <anio>2021</anio>
+    <temporadas>2</temporadas>
+    <valoracion>7.8</valoracion>
+  </serie>
+  <serie id="S12">
+    <titulo>Mareas</titulo>
+    <genero>Drama</genero>
+    <anio>2015</anio>
+    <temporadas>5</temporadas>
+    <valoracion>8.6</valoracion>
+  </serie>
+  <serie id="S13">
+    <titulo>Píxel y Trueno</titulo>
+    <genero>Animación</genero>
+    <anio>2022</anio>
+    <temporadas>3</temporadas>
+    <valoracion>8.0</valoracion>
+  </serie>
+  <serie id="S14">
+    <titulo>Hambre de Ciudad</titulo>
+    <genero>Documental</genero>
+    <anio>2024</anio>
+    <temporadas>1</temporadas>
+    <valoracion>7.7</valoracion>
+  </serie>
+  <serie id="S15">
+    <titulo>Las Llaves de Ámbar</titulo>
+    <genero>Fantasía</genero>
+    <anio>2021</anio>
+    <temporadas>3</temporadas>
+    <valoracion>8.3</valoracion>
+  </serie>
+  <serie id="S16">
+    <titulo>Vecinos en Directo</titulo>
+    <genero>Comedia</genero>
+    <anio>2019</anio>
+    <temporadas>4</temporadas>
+    <valoracion>6.8</valoracion>
+  </serie>
+  <serie id="S17">
+    <titulo>Horizonte Cero</titulo>
+    <genero>Ciencia ficción</genero>
+    <anio>2025</anio>
+    <temporadas>1</temporadas>
+    <valoracion>9.1</valoracion>
+  </serie>
+  <serie id="S18">
+    <titulo>La Casa del Faro</titulo>
+    <genero>Thriller</genero>
+    <anio>2018</anio>
+    <temporadas>3</temporadas>
+    <valoracion>7.3</valoracion>
+  </serie>
+  <serie id="S19">
+    <titulo>Raíces</titulo>
+    <genero>Drama</genero>
+    <anio>2022</anio>
+    <temporadas>2</temporadas>
+    <valoracion>7.9</valoracion>
+  </serie>
+  <serie id="S20">
+    <titulo>Bajo Cero FC</titulo>
+    <genero>Comedia</genero>
+    <anio>2025</anio>
+    <temporadas>1</temporadas>
+    <valoracion>7.5</valoracion>
+  </serie>
+  <serie id="S21">
+    <titulo>Dragones de Papel</titulo>
+    <genero>Animación</genero>
+    <anio>2020</anio>
+    <temporadas>2</temporadas>
+    <valoracion>6.5</valoracion>
+  </serie>
+  <serie id="S22">
+    <titulo>Sonidos del Sur</titulo>
+    <genero>Documental</genero>
+    <anio>2017</anio>
+    <temporadas>1</temporadas>
+    <valoracion>8.0</valoracion>
+  </serie>
+  <serie id="S23">
+    <titulo>Tormenta de Cristal</titulo>
+    <genero>Fantasía</genero>
+    <anio>2024</anio>
+    <temporadas>2</temporadas>
+    <valoracion>8.8</valoracion>
+  </serie>
+  <serie id="S24">
+    <titulo>Expediente Kora</titulo>
+    <genero>Thriller</genero>
+    <anio>2016</anio>
+    <temporadas>5</temporadas>
+    <valoracion>8.0</valoracion>
+  </serie>
+</catalogo>

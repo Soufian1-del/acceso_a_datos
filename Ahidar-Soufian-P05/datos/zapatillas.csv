@@ -1,0 +1,41 @@
+codigo;modelo;marca;categoria;talla;precio;stock
+1;Nube Ligera;Zancada;running;40;89.90;12
+2;Nube Ligera;Zancada;running;41;89.90;8
+3;Nube Ligera;Zancada;running;42.5;89.90;0
+4;Nube Ligera;Zancada;running;44;89.90;5
+5;Vuelo Alto;Brinco;baloncesto;42;119.95;4
+6;Vuelo Alto;Brinco;baloncesto;43;119.95;7
+7;Vuelo Alto;Brinco;baloncesto;45;119.95;2
+8;Tabla Urbana;Asfalto;skate;38;64.50;10
+9;Tabla Urbana;Asfalto;skate;39;64.50;6
+10;Tabla Urbana;Asfalto;skate;41;64.50;0
+11;Montaña Gris;Cumbre;trail;40;104.00;3
+12;Montaña Gris;Cumbre;trail;42;104.00;9
+13;Montaña Gris;Cumbre;trail;43.5;104.00;1
+14;Paseo Diario;Kuvo;casual;37;49.99;15
+15;Paseo Diario;Kuvo;casual;38;49.99;11
+16;Paseo Diario;Kuvo;casual;39;49.99;14
+17;Paseo Diario;Kuvo;casual;40;49.99;0
+18;Bandeja Pro;Brinco;baloncesto;44;134.90;3
+19;Bandeja Pro;Brinco;baloncesto;46;134.90;1
+20;Ritmo 5K;Zancada;running;36;74.95;6
+21;Ritmo 5K;Zancada;running;37.5;74.95;9
+22;Ritmo 5K;Zancada;running;39;74.95;4
+23;Edición Especial Aniversario;Asfalto;skate;40;159.00;2
+24;Edición Especial Aniversario;Asfalto;skate;42;159.00;0
+25;Barrio Retro;Kuvo;casual;41;59.90;13
+26;Barrio Retro;Kuvo;casual;42;59.90;10
+27;Barrio Retro;Kuvo;casual;43;59.90;7
+28;Sendero Norte;Cumbre;trail;38;94.50;5
+29;Sendero Norte;Cumbre;trail;41;94.50;8
+30;Sendero Norte;Cumbre;trail;44.5;94.50;2
+31;Maratón Azul;Pisada Firme;running;40;129.00;4
+32;Maratón Azul;Pisada Firme;running;42;129.00;6
+33;Maratón Azul;Pisada Firme;running;43;129.00;0
+34;Ollie Clásica;Asfalto;skate;39.5;54.95;12
+35;Ollie Clásica;Asfalto;skate;42;54.95;8
+36;Canasta Libre;Brinco;baloncesto;41;99.00;5
+37;Canasta Libre;Brinco;baloncesto;43;99.00;3
+38;Café con Leche;Kuvo;casual;38;44.90;9
+39;Café con Leche;Kuvo;casual;40;44.90;11
+40;Cumbre Nevada;Cumbre;trail;45;112.50;1

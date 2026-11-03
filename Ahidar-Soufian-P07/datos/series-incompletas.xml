@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo plataforma="Órbita Play">
+  <serie id="I01">
+    <titulo>Cielo Partido</titulo>
+    <genero>Drama</genero>
+    <anio>2021</anio>
+    <temporadas>2</temporadas>
+    <valoracion>7.8</valoracion>
+  </serie>
+  <serie id="I02">
+    <titulo>Club de Medianoche</titulo>
+    <genero>Comedia</genero>
+    <anio>2020</anio>
+    <temporadas>3</temporadas>
+    <valoracion></valoracion>
+  </serie>
+  <serie id="I03">
+    <titulo>Faro Norte</titulo>
+    <genero>Thriller</genero>
+    <anio>1850</anio>
+    <temporadas>1</temporadas>
+    <valoracion>7.2</valoracion>
+  </serie>
+  <serie id="I04">
+    <titulo>Gatos al Poder</titulo>
+    <genero>Animación</genero>
+    <anio>2023</anio>
+    <temporadas></temporadas>
+    <valoracion>6.9</valoracion>
+  </serie>
+  <serie id="I05">
+    <titulo>Viaje al Hielo</titulo>
+    <genero>Documental</genero>
+    <anio>2022</anio>
+    <temporadas>1</temporadas>
+  </serie>
+  <serie id="I06">
+    <titulo>Mil Lunas</titulo>
+    <genero>Fantasía</genero>
+    <anio>2024</anio>
+    <temporadas>2</temporadas>
+    <valoracion>12.5</valoracion>
+  </serie>
+  <serie id="I07">
+    <titulo>Barrio Alto</titulo>
+    <genero>Comedia</genero>
+    <anio>2025</anio>
+    <temporadas>1</temporadas>
+    <valoracion>8.1</valoracion>
+  </serie>
+</catalogo>
