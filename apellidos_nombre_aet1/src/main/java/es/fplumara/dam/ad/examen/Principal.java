@@ -13,5 +13,6 @@ public class Principal {
         System.out.println(app.pasarAObjeto());
         CsvAJson appjson = new CsvAJson();
         appjson.jsonConverter(app.pasarAObjeto(), "datos/anuncios-json.json");
+        
     }
 }
