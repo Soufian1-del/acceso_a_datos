@@ -19,7 +19,7 @@ public class Aplicacion {
             String[] campos = primera.split(";");
             List<Anuncio> anuncios = new ArrayList<>();
             List<String> lineas = leerFichero(Path.of("datos", "anuncios.csv"));
-            for(String l: lineas) {
+            for (String l : lineas) {
                 Anuncio anuncio = new Anuncio(
                         Integer.parseInt(campos[0]),
                         campos[1],
@@ -33,11 +33,11 @@ public class Aplicacion {
                 );
                 anuncios.add(anuncio);
             }
-            return(anuncios);
+            return (anuncios);
         }
     }
 
-    public List<String> leerFichero(Path ruta) throws IOException{
+    public List<String> leerFichero(Path ruta) throws IOException {
         List<String> lineas = new ArrayList<>();
         try (BufferedReader lector = Files.newBufferedReader(Path.of("datos", "anuncios.csv"), StandardCharsets.UTF_8)) {
             String linea = lector.readLine(); // null = fin de fichero
