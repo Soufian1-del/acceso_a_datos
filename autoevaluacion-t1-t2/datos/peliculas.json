@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "titulo": "Toy Story",
+    "estreno": "1995-11-22",
+    "puntuacion": 8.3,
+    "descripcion": "Juguete vaquero sufre un ataque de celos cuando llega a casa un astronauta que no sabe que es de plástico."
+  },
+  {
+    "id": 2,
+    "titulo": "Titanic",
+    "estreno": "1997-12-19",
+    "puntuacion": 7.9,
+    "descripcion": "Pareja se niega a compartir una puerta flotante en la que cabían los dos de sobra."
+  },
+  {
+    "id": 3,
+    "titulo": "Tiburón",
+    "estreno": "1975-06-20",
+    "puntuacion": 8.1,
+    "descripcion": "Alcalde se niega a cerrar la playa en temporada alta pese a las malas reseñas de los bañistas."
+  },
+  {
+    "id": 4,
+    "titulo": "El Padrino",
+    "estreno": "1972-03-24",
+    "puntuacion": 9.2,
+    "descripcion": "Empresa familiar sufre una crisis de relevo cuando el hijo que no quería el negocio acaba dirigiéndolo."
+  },
+  {
+    "id": 5,
+    "titulo": "Pulp Fiction",
+    "estreno": "1994-10-14",
+    "puntuacion": 8.9,
+    "descripcion": "Dos compañeros de trabajo discuten sobre hamburguesas europeas mientras entregan un maletín misterioso."
+  },
+  {
+    "id": 6,
+    "titulo": "Forrest Gump",
+    "estreno": "1994-07-06",
+    "puntuacion": 8.8,
+    "descripcion": "Hombre sale a correr un día y se le olvida parar durante más de tres años."
+  },
+  {
+    "id": 7,
+    "titulo": "El silencio de los corderos",
+    "estreno": "1991-02-14",
+    "puntuacion": 8.6,
+    "descripcion": "Estudiante en prácticas pide consejo a un experto en gastronomía con gustos muy particulares."
+  },
+  {
+    "id": 8,
+    "titulo": "Cazafantasmas",
+    "estreno": "1984-06-08",
+    "puntuacion": 7.8,
+    "descripcion": "Tres científicos despedidos de la universidad montan una empresa de control de plagas muy especializada."
+  },
+  {
+    "id": 9,
+    "titulo": "Buscando a Nemo",
+    "estreno": "2003-05-30",
+    "puntuacion": 8.2,
+    "descripcion": "Padre sobreprotector cruza medio océano porque su hijo se ha ido de excursión sin avisar."
+  },
+  {
+    "id": 10,
+    "titulo": "Up",
+    "estreno": "2009-05-29",
+    "puntuacion": 8.3,
+    "descripcion": "Jubilado se niega a vender su casa a una constructora y se la lleva de viaje atada a unos globos."
+  },
+  {
+    "id": 11,
+    "titulo": "Frozen: El reino del hielo",
+    "estreno": "2013-11-27",
+    "puntuacion": 7.4,
+    "descripcion": "Reina con problemas de climatización provoca una ola de frío en pleno verano y se encierra a cantar."
+  },
+  {
+    "id": 12,
+    "titulo": "Coco",
+    "estreno": "2017-11-22",
+    "puntuacion": 8.4,
+    "descripcion": "Niño que quiere ser músico tiene que pedir permiso a toda su familia, incluida la que ya no está."
+  },
+  {
+    "id": 13,
+    "titulo": "Del revés",
+    "estreno": "2015-06-19",
+    "puntuacion": 8.1,
+    "descripcion": "Cinco compañeros de oficina se pelean por el mando cuando su jefa se muda de ciudad."
+  },
+  {
+    "id": 14,
+    "titulo": "Interstellar",
+    "estreno": "2014-11-07",
+    "puntuacion": 8.7,
+    "descripcion": "Padre sale a hacer un recado de un par de horas y, cuando vuelve, su hija es mayor que él."
+  },
+  {
+    "id": 15,
+    "titulo": "El caballero oscuro",
+    "estreno": "2008-07-18",
+    "puntuacion": 9.0,
+    "descripcion": "Payaso sin contrato demuestra que el dinero no lo es todo quemando una montaña de billetes."
+  },
+  {
+    "id": 16,
+    "titulo": "Iron Man",
+    "estreno": "2008-05-02",
+    "puntuacion": 7.9,
+    "descripcion": "Empresario de armamento fabrica en una cueva el prototipo que su departamento de I+D nunca le aprobó."
+  },
+  {
+    "id": 17,
+    "titulo": "Terminator 2: El juicio final",
+    "estreno": "1991-07-03",
+    "puntuacion": 8.6,
+    "descripcion": "Robot del futuro aprende a chocar los cinco mientras huye de un compañero de trabajo líquido."
+  },
+  {
+    "id": 18,
+    "titulo": "Indiana Jones: En busca del arca perdida",
+    "estreno": "1981-06-12",
+    "puntuacion": 8.4,
+    "descripcion": "Profesor universitario falta a sus clases para recuperar una pieza que el museo nunca llega a exponer."
+  },
+  {
+    "id": 19,
+    "titulo": "Piratas del Caribe: La maldición de la Perla Negra",
+    "estreno": "2003-07-09",
+    "puntuacion": 8.1,
+    "descripcion": "Capitán sin barco intenta recuperar su barco, que se ha ido sin él."
+  },
+  {
+    "id": 20,
+    "titulo": "Ratatouille",
+    "estreno": "2007-06-29",
+    "puntuacion": 8.1,
+    "descripcion": "Restaurante de lujo supera una inspección de sanidad de forma inexplicable."
+  },
+  {
+    "id": 21,
+    "titulo": "WALL·E: Batallón de limpieza",
+    "estreno": "2008-06-27",
+    "puntuacion": 8.4,
+    "descripcion": "Barrendero trabaja 700 años sin vacaciones y se enamora de una inspectora que llega de visita."
+  },
+  {
+    "id": 22,
+    "titulo": "Los Increíbles",
+    "estreno": "2004-11-05",
+    "puntuacion": 8.0,
+    "descripcion": "Agente de seguros en plena crisis de los cuarenta vuelve a su antiguo trabajo sin contárselo a su mujer."
+  },
+  {
+    "id": 23,
+    "titulo": "Monstruos, S.A.",
+    "estreno": "2001-11-02",
+    "puntuacion": 8.1,
+    "descripcion": "Empresa energética en crisis descubre que la risa es más rentable que el miedo."
+  },
+  {
+    "id": 24,
+    "titulo": "Parásitos",
+    "estreno": "2019-05-30",
+    "puntuacion": 8.5,
+    "descripcion": "Familia entera consigue trabajo en la misma casa sin pasar por ninguna agencia de colocación."
+  },
+  {
+    "id": 25,
+    "titulo": "El laberinto del fauno",
+    "estreno": "2006-10-11",
+    "puntuacion": 8.2,
+    "descripcion": "Niña de la posguerra prefiere las pruebas de un fauno antes que cenar con su padrastro."
+  },
+  {
+    "id": 26,
+    "titulo": "Los Goonies",
+    "estreno": "1985-06-07",
+    "puntuacion": 7.7,
+    "descripcion": "Pandilla del barrio intenta salvar sus casas de un desahucio buscando el tesoro de un pirata."
+  },
+  {
+    "id": 27,
+    "titulo": "Ocho apellidos vascos",
+    "estreno": "2014-03-14",
+    "puntuacion": 6.5,
+    "descripcion": "Sevillano se hace pasar por vasco para impresionar a su suegro."
+  },
+  {
+    "id": 28,
+    "titulo": "Campeones",
+    "estreno": "2018-04-06",
+    "puntuacion": 7.1,
+    "descripcion": "Entrenador condenado a trabajos comunitarios acaba aprendiendo más que su equipo."
+  },
+  {
+    "id": 29,
+    "titulo": "Barbie",
+    "estreno": "2023-07-21",
+    "puntuacion": 6.8,
+    "descripcion": "Muñeca con los pies planos visita el mundo real y no le gusta lo que ve."
+  },
+  {
+    "id": 30,
+    "titulo": "Oppenheimer",
+    "estreno": "2023-07-21",
+    "puntuacion": 8.3,
+    "descripcion": "Científico dirige un proyecto de investigación con unos resultados demasiado brillantes."
+  }
+]

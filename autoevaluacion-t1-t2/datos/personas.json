@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1,
+    "nombre": "John Lasseter"
+  },
+  {
+    "id": 2,
+    "nombre": "Joss Whedon"
+  },
+  {
+    "id": 3,
+    "nombre": "Andrew Stanton"
+  },
+  {
+    "id": 4,
+    "nombre": "Joel Cohen"
+  },
+  {
+    "id": 5,
+    "nombre": "Alec Sokolow"
+  },
+  {
+    "id": 6,
+    "nombre": "Tom Hanks"
+  },
+  {
+    "id": 7,
+    "nombre": "Tim Allen"
+  },
+  {
+    "id": 8,
+    "nombre": "Don Rickles"
+  },
+  {
+    "id": 9,
+    "nombre": "James Cameron"
+  },
+  {
+    "id": 10,
+    "nombre": "Leonardo DiCaprio"
+  },
+  {
+    "id": 11,
+    "nombre": "Kate Winslet"
+  },
+  {
+    "id": 12,
+    "nombre": "Billy Zane"
+  },
+  {
+    "id": 13,
+    "nombre": "Steven Spielberg"
+  },
+  {
+    "id": 14,
+    "nombre": "Peter Benchley"
+  },
+  {
+    "id": 15,
+    "nombre": "Carl Gottlieb"
+  },
+  {
+    "id": 16,
+    "nombre": "Roy Scheider"
+  },
+  {
+    "id": 17,
+    "nombre": "Robert Shaw"
+  },
+  {
+    "id": 18,
+    "nombre": "Richard Dreyfuss"
+  },
+  {
+    "id": 19,
+    "nombre": "Francis Ford Coppola"
+  },
+  {
+    "id": 20,
+    "nombre": "Mario Puzo"
+  },
+  {
+    "id": 21,
+    "nombre": "Marlon Brando"
+  },
+  {
+    "id": 22,
+    "nombre": "Al Pacino"
+  },
+  {
+    "id": 23,
+    "nombre": "James Caan"
+  },
+  {
+    "id": 24,
+    "nombre": "Quentin Tarantino"
+  },
+  {
+    "id": 25,
+    "nombre": "Roger Avary"
+  },
+  {
+    "id": 26,
+    "nombre": "John Travolta"
+  },
+  {
+    "id": 27,
+    "nombre": "Samuel L. Jackson"
+  },
+  {
+    "id": 28,
+    "nombre": "Uma Thurman"
+  },
+  {
+    "id": 29,
+    "nombre": "Robert Zemeckis"
+  },
+  {
+    "id": 30,
+    "nombre": "Eric Roth"
+  },
+  {
+    "id": 31,
+    "nombre": "Robin Wright"
+  },
+  {
+    "id": 32,
+    "nombre": "Gary Sinise"
+  },
+  {
+    "id": 33,
+    "nombre": "Jonathan Demme"
+  },
+  {
+    "id": 34,
+    "nombre": "Ted Tally"
+  },
+  {
+    "id": 35,
+    "nombre": "Jodie Foster"
+  },
+  {
+    "id": 36,
+    "nombre": "Anthony Hopkins"
+  },
+  {
+    "id": 37,
+    "nombre": "Scott Glenn"
+  },
+  {
+    "id": 38,
+    "nombre": "Ivan Reitman"
+  },
+  {
+    "id": 39,
+    "nombre": "Dan Aykroyd"
+  },
+  {
+    "id": 40,
+    "nombre": "Harold Ramis"
+  },
+  {
+    "id": 41,
+    "nombre": "Bill Murray"
+  },
+  {
+    "id": 42,
+    "nombre": "Sigourney Weaver"
+  },
+  {
+    "id": 43,
+    "nombre": "Lee Unkrich"
+  },
+  {
+    "id": 44,
+    "nombre": "Bob Peterson"
+  },
+  {
+    "id": 45,
+    "nombre": "David Reynolds"
+  },
+  {
+    "id": 46,
+    "nombre": "Albert Brooks"
+  },
+  {
+    "id": 47,
+    "nombre": "Ellen DeGeneres"
+  },
+  {
+    "id": 48,
+    "nombre": "Alexander Gould"
+  },
+  {
+    "id": 49,
+    "nombre": "Pete Docter"
+  },
+  {
+    "id": 50,
+    "nombre": "Ed Asner"
+  },
+  {
+    "id": 51,
+    "nombre": "Jordan Nagai"
+  },
+  {
+    "id": 52,
+    "nombre": "Christopher Plummer"
+  },
+  {
+    "id": 53,
+    "nombre": "Chris Buck"
+  },
+  {
+    "id": 54,
+    "nombre": "Jennifer Lee"
+  },
+  {
+    "id": 55,
+    "nombre": "Kristen Bell"
+  },
+  {
+    "id": 56,
+    "nombre": "Idina Menzel"
+  },
+  {
+    "id": 57,
+    "nombre": "Josh Gad"
+  },
+  {
+    "id": 58,
+    "nombre": "Adrian Molina"
+  },
+  {
+    "id": 59,
+    "nombre": "Matthew Aldrich"
+  },
+  {
+    "id": 60,
+    "nombre": "Anthony Gonzalez"
+  },
+  {
+    "id": 61,
+    "nombre": "Gael García Bernal"
+  },
+  {
+    "id": 62,
+    "nombre": "Benjamin Bratt"
+  },
+  {
+    "id": 63,
+    "nombre": "Meg LeFauve"
+  },
+  {
+    "id": 64,
+    "nombre": "Josh Cooley"
+  },
+  {
+    "id": 65,
+    "nombre": "Amy Poehler"
+  },
+  {
+    "id": 66,
+    "nombre": "Phyllis Smith"
+  },
+  {
+    "id": 67,
+    "nombre": "Bill Hader"
+  },
+  {
+    "id": 68,
+    "nombre": "Christopher Nolan"
+  },
+  {
+    "id": 69,
+    "nombre": "Jonathan Nolan"
+  },
+  {
+    "id": 70,
+    "nombre": "Matthew McConaughey"
+  },
+  {
+    "id": 71,
+    "nombre": "Anne Hathaway"
+  },
+  {
+    "id": 72,
+    "nombre": "Jessica Chastain"
+  },
+  {
+    "id": 73,
+    "nombre": "Christian Bale"
+  },
+  {
+    "id": 74,
+    "nombre": "Heath Ledger"
+  },
+  {
+    "id": 75,
+    "nombre": "Aaron Eckhart"
+  },
+  {
+    "id": 76,
+    "nombre": "Jon Favreau"
+  },
+  {
+    "id": 77,
+    "nombre": "Mark Fergus"
+  },
+  {
+    "id": 78,
+    "nombre": "Hawk Ostby"
+  },
+  {
+    "id": 79,
+    "nombre": "Art Marcum"
+  },
+  {
+    "id": 80,
+    "nombre": "Matt Holloway"
+  },
+  {
+    "id": 81,
+    "nombre": "Robert Downey Jr."
+  },
+  {
+    "id": 82,
+    "nombre": "Gwyneth Paltrow"
+  },
+  {
+    "id": 83,
+    "nombre": "Jeff Bridges"
+  },
+  {
+    "id": 84,
+    "nombre": "William Wisher"
+  },
+  {
+    "id": 85,
+    "nombre": "Arnold Schwarzenegger"
+  },
+  {
+    "id": 86,
+    "nombre": "Linda Hamilton"
+  },
+  {
+    "id": 87,
+    "nombre": "Edward Furlong"
+  },
+  {
+    "id": 88,
+    "nombre": "Lawrence Kasdan"
+  },
+  {
+    "id": 89,
+    "nombre": "Harrison Ford"
+  },
+  {
+    "id": 90,
+    "nombre": "Karen Allen"
+  },
+  {
+    "id": 91,
+    "nombre": "Paul Freeman"
+  },
+  {
+    "id": 92,
+    "nombre": "Gore Verbinski"
+  },
+  {
+    "id": 93,
+    "nombre": "Ted Elliott"
+  },
+  {
+    "id": 94,
+    "nombre": "Terry Rossio"
+  },
+  {
+    "id": 95,
+    "nombre": "Johnny Depp"
+  },
+  {
+    "id": 96,
+    "nombre": "Geoffrey Rush"
+  },
+  {
+    "id": 97,
+    "nombre": "Orlando Bloom"
+  },
+  {
+    "id": 98,
+    "nombre": "Keira Knightley"
+  },
+  {
+    "id": 99,
+    "nombre": "Brad Bird"
+  },
+  {
+    "id": 100,
+    "nombre": "Patton Oswalt"
+  },
+  {
+    "id": 101,
+    "nombre": "Lou Romano"
+  },
+  {
+    "id": 102,
+    "nombre": "Peter O'Toole"
+  },
+  {
+    "id": 103,
+    "nombre": "Jim Reardon"
+  },
+  {
+    "id": 104,
+    "nombre": "Ben Burtt"
+  },
+  {
+    "id": 105,
+    "nombre": "Elissa Knight"
+  },
+  {
+    "id": 106,
+    "nombre": "Jeff Garlin"
+  },
+  {
+    "id": 107,
+    "nombre": "Craig T. Nelson"
+  },
+  {
+    "id": 108,
+    "nombre": "Holly Hunter"
+  },
+  {
+    "id": 109,
+    "nombre": "Dan Gerson"
+  },
+  {
+    "id": 110,
+    "nombre": "John Goodman"
+  },
+  {
+    "id": 111,
+    "nombre": "Billy Crystal"
+  },
+  {
+    "id": 112,
+    "nombre": "Mary Gibbs"
+  },
+  {
+    "id": 113,
+    "nombre": "Bong Joon-ho"
+  },
+  {
+    "id": 114,
+    "nombre": "Han Jin-won"
+  },
+  {
+    "id": 115,
+    "nombre": "Song Kang-ho"
+  },
+  {
+    "id": 116,
+    "nombre": "Lee Sun-kyun"
+  },
+  {
+    "id": 117,
+    "nombre": "Cho Yeo-jeong"
+  },
+  {
+    "id": 118,
+    "nombre": "Guillermo del Toro"
+  },
+  {
+    "id": 119,
+    "nombre": "Ivana Baquero"
+  },
+  {
+    "id": 120,
+    "nombre": "Sergi López"
+  },
+  {
+    "id": 121,
+    "nombre": "Maribel Verdú"
+  },
+  {
+    "id": 122,
+    "nombre": "Richard Donner"
+  },
+  {
+    "id": 123,
+    "nombre": "Chris Columbus"
+  },
+  {
+    "id": 124,
+    "nombre": "Sean Astin"
+  },
+  {
+    "id": 125,
+    "nombre": "Josh Brolin"
+  },
+  {
+    "id": 126,
+    "nombre": "Corey Feldman"
+  },
+  {
+    "id": 127,
+    "nombre": "Emilio Martínez-Lázaro"
+  },
+  {
+    "id": 128,
+    "nombre": "Borja Cobeaga"
+  },
+  {
+    "id": 129,
+    "nombre": "Diego San José"
+  },
+  {
+    "id": 130,
+    "nombre": "Dani Rovira"
+  },
+  {
+    "id": 131,
+    "nombre": "Clara Lago"
+  },
+  {
+    "id": 132,
+    "nombre": "Karra Elejalde"
+  },
+  {
+    "id": 133,
+    "nombre": "Javier Fesser"
+  },
+  {
+    "id": 134,
+    "nombre": "David Marqués"
+  },
+  {
+    "id": 135,
+    "nombre": "Javier Gutiérrez"
+  },
+  {
+    "id": 136,
+    "nombre": "Juan Margallo"
+  },
+  {
+    "id": 137,
+    "nombre": "Jesús Vidal"
+  },
+  {
+    "id": 138,
+    "nombre": "Greta Gerwig"
+  },
+  {
+    "id": 139,
+    "nombre": "Noah Baumbach"
+  },
+  {
+    "id": 140,
+    "nombre": "Margot Robbie"
+  },
+  {
+    "id": 141,
+    "nombre": "Ryan Gosling"
+  },
+  {
+    "id": 142,
+    "nombre": "America Ferrera"
+  },
+  {
+    "id": 143,
+    "nombre": "Cillian Murphy"
+  },
+  {
+    "id": 144,
+    "nombre": "Emily Blunt"
+  },
+  {
+    "id": 145,
+    "nombre": "Matt Damon"
+  }
+]

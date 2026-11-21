@@ -1,0 +1,932 @@
+[
+  {
+    "idPelicula": 1,
+    "idPersona": 1,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 1,
+    "idPersona": 2,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 1,
+    "idPersona": 3,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 1,
+    "idPersona": 4,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 1,
+    "idPersona": 5,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 1,
+    "idPersona": 6,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 1,
+    "idPersona": 7,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 1,
+    "idPersona": 8,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 2,
+    "idPersona": 9,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 2,
+    "idPersona": 9,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 2,
+    "idPersona": 10,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 2,
+    "idPersona": 11,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 2,
+    "idPersona": 12,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 3,
+    "idPersona": 13,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 3,
+    "idPersona": 14,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 3,
+    "idPersona": 15,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 3,
+    "idPersona": 16,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 3,
+    "idPersona": 17,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 3,
+    "idPersona": 18,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 4,
+    "idPersona": 19,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 4,
+    "idPersona": 20,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 4,
+    "idPersona": 19,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 4,
+    "idPersona": 21,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 4,
+    "idPersona": 22,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 4,
+    "idPersona": 23,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 5,
+    "idPersona": 24,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 5,
+    "idPersona": 24,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 5,
+    "idPersona": 25,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 5,
+    "idPersona": 26,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 5,
+    "idPersona": 27,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 5,
+    "idPersona": 28,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 5,
+    "idPersona": 24,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 6,
+    "idPersona": 29,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 6,
+    "idPersona": 30,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 6,
+    "idPersona": 6,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 6,
+    "idPersona": 31,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 6,
+    "idPersona": 32,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 7,
+    "idPersona": 33,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 7,
+    "idPersona": 34,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 7,
+    "idPersona": 35,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 7,
+    "idPersona": 36,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 7,
+    "idPersona": 37,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 8,
+    "idPersona": 38,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 8,
+    "idPersona": 39,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 8,
+    "idPersona": 40,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 8,
+    "idPersona": 41,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 8,
+    "idPersona": 39,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 8,
+    "idPersona": 40,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 8,
+    "idPersona": 42,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 9,
+    "idPersona": 3,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 9,
+    "idPersona": 43,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 9,
+    "idPersona": 3,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 9,
+    "idPersona": 44,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 9,
+    "idPersona": 45,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 9,
+    "idPersona": 46,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 9,
+    "idPersona": 47,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 9,
+    "idPersona": 48,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 10,
+    "idPersona": 49,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 10,
+    "idPersona": 44,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 10,
+    "idPersona": 44,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 10,
+    "idPersona": 49,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 10,
+    "idPersona": 50,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 10,
+    "idPersona": 51,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 10,
+    "idPersona": 52,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 10,
+    "idPersona": 44,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 11,
+    "idPersona": 53,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 11,
+    "idPersona": 54,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 11,
+    "idPersona": 54,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 11,
+    "idPersona": 55,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 11,
+    "idPersona": 56,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 11,
+    "idPersona": 57,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 12,
+    "idPersona": 43,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 12,
+    "idPersona": 58,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 12,
+    "idPersona": 58,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 12,
+    "idPersona": 59,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 12,
+    "idPersona": 60,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 12,
+    "idPersona": 61,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 12,
+    "idPersona": 62,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 13,
+    "idPersona": 49,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 13,
+    "idPersona": 49,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 13,
+    "idPersona": 63,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 13,
+    "idPersona": 64,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 13,
+    "idPersona": 65,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 13,
+    "idPersona": 66,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 13,
+    "idPersona": 67,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 14,
+    "idPersona": 68,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 14,
+    "idPersona": 69,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 14,
+    "idPersona": 68,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 14,
+    "idPersona": 70,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 14,
+    "idPersona": 71,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 14,
+    "idPersona": 72,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 15,
+    "idPersona": 68,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 15,
+    "idPersona": 69,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 15,
+    "idPersona": 68,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 15,
+    "idPersona": 73,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 15,
+    "idPersona": 74,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 15,
+    "idPersona": 75,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 76,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 77,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 78,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 79,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 80,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 81,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 82,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 83,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 16,
+    "idPersona": 76,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 17,
+    "idPersona": 9,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 17,
+    "idPersona": 9,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 17,
+    "idPersona": 84,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 17,
+    "idPersona": 85,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 17,
+    "idPersona": 86,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 17,
+    "idPersona": 87,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 18,
+    "idPersona": 13,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 18,
+    "idPersona": 88,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 18,
+    "idPersona": 89,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 18,
+    "idPersona": 90,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 18,
+    "idPersona": 91,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 19,
+    "idPersona": 92,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 19,
+    "idPersona": 93,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 19,
+    "idPersona": 94,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 19,
+    "idPersona": 95,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 19,
+    "idPersona": 96,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 19,
+    "idPersona": 97,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 19,
+    "idPersona": 98,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 20,
+    "idPersona": 99,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 20,
+    "idPersona": 99,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 20,
+    "idPersona": 100,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 20,
+    "idPersona": 101,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 20,
+    "idPersona": 102,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 21,
+    "idPersona": 3,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 21,
+    "idPersona": 3,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 21,
+    "idPersona": 103,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 21,
+    "idPersona": 104,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 21,
+    "idPersona": 105,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 21,
+    "idPersona": 106,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 22,
+    "idPersona": 99,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 22,
+    "idPersona": 99,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 22,
+    "idPersona": 107,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 22,
+    "idPersona": 108,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 22,
+    "idPersona": 27,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 22,
+    "idPersona": 99,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 23,
+    "idPersona": 49,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 23,
+    "idPersona": 3,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 23,
+    "idPersona": 109,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 23,
+    "idPersona": 110,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 23,
+    "idPersona": 111,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 23,
+    "idPersona": 112,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 24,
+    "idPersona": 113,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 24,
+    "idPersona": 113,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 24,
+    "idPersona": 114,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 24,
+    "idPersona": 115,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 24,
+    "idPersona": 116,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 24,
+    "idPersona": 117,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 25,
+    "idPersona": 118,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 25,
+    "idPersona": 118,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 25,
+    "idPersona": 119,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 25,
+    "idPersona": 120,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 25,
+    "idPersona": 121,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 26,
+    "idPersona": 122,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 26,
+    "idPersona": 123,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 26,
+    "idPersona": 124,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 26,
+    "idPersona": 125,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 26,
+    "idPersona": 126,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 27,
+    "idPersona": 127,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 27,
+    "idPersona": 128,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 27,
+    "idPersona": 129,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 27,
+    "idPersona": 130,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 27,
+    "idPersona": 131,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 27,
+    "idPersona": 132,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 28,
+    "idPersona": 133,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 28,
+    "idPersona": 134,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 28,
+    "idPersona": 133,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 28,
+    "idPersona": 135,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 28,
+    "idPersona": 136,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 28,
+    "idPersona": 137,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 29,
+    "idPersona": 138,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 29,
+    "idPersona": 138,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 29,
+    "idPersona": 139,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 29,
+    "idPersona": 140,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 29,
+    "idPersona": 141,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 29,
+    "idPersona": 142,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 30,
+    "idPersona": 68,
+    "puesto": "DIRECCION"
+  },
+  {
+    "idPelicula": 30,
+    "idPersona": 68,
+    "puesto": "GUION"
+  },
+  {
+    "idPelicula": 30,
+    "idPersona": 143,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 30,
+    "idPersona": 144,
+    "puesto": "REPARTO"
+  },
+  {
+    "idPelicula": 30,
+    "idPersona": 145,
+    "puesto": "REPARTO"
+  }
+]
