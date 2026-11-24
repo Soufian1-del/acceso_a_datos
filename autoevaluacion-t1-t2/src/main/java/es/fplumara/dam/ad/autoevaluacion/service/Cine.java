@@ -8,9 +8,7 @@ import tools.jackson.core.type.TypeReference;
 import tools.jackson.databind.ObjectMapper;
 
 import java.io.File;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
+import java.sql.*;
 import java.util.List;
 
 public class Cine {
@@ -88,5 +86,25 @@ public class Cine {
     }
 
     // EJERCICIO 3
+
+    public  void listarVideojuegos(Connection conexion, int id_pelicula) throws SQLException {
+        String sql = "select  peli.*, persona.* from peliculas peli join puestos on id_pelicula = 1 and id_pelicula = fk_pelicula join personas persona on fk_persona = id_persona";
+        try (PreparedStatement sentencia = conexion.prepareStatement(sql)) {
+            sentencia.setInt(1, id_pelicula);
+            try(ResultSet resultado = sentencia.executeQuery() ) {
+                while (resultado.next()) {
+                    int peliID = resultado.getInt("id_pelicula");
+                    String titulo = resultado.getString("Titulo");
+                    Date estreno = resultado.getDate("estreno");
+                    Double puntuacion = resultado.getDouble("puntuacion");
+                    String descripcion = resultado.getString("descripcion");
+                    int persona = resultado.getInt("id_persona");
+                    String nombre = resultado.getString("nombre");
+                    System.out.printf(peliID + " " + titulo + " " + estreno + " " + puntuacion + " " + descripcion + " " + persona + " " + nombre + "\n");
+                }
+            }
+
+        }
+    }
 
 }

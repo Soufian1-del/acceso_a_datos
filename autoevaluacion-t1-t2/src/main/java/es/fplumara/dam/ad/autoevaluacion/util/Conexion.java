@@ -1,5 +1,9 @@
 package es.fplumara.dam.ad.autoevaluacion.util;
 
+
+import com.zaxxer.hikari.HikariConfig;
+import com.zaxxer.hikari.HikariDataSource;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -14,35 +18,37 @@ import java.util.Properties;
  * Datos de conexión a MariaDB, leídos de src/main/resources/conexion.properties.
  */
 public class Conexion {
-
-    private static final String FICHERO_CONFIGURACION = "conexion.properties";
-
-    /**
-     * Lee conexion.properties.
-     *
-     * @return las propiedades url, usuario y contrasena
-     * @throws IOException si el fichero no existe o no se puede leer
-     */
-    public static Properties leerPropiedades() throws IOException {
-        InputStream entrada = Conexion.class.getClassLoader().getResourceAsStream(FICHERO_CONFIGURACION);
-        if (entrada == null) {
-            throw new IOException("No se encuentra " + FICHERO_CONFIGURACION + " en src/main/resources");
+    private static final String FICHERO = "conexion.properties";
+    // El pool se crea UNA vez y se reutiliza
+    private static HikariDataSource pool;
+    // Crea el pool la primera vez; las siguientes devuelve el mismo
+    private static HikariDataSource obtenerPool() throws IOException {
+        if (pool == null) {
+            Properties propiedades = new Properties();
+            try (InputStream entrada = Conexion.class.getClassLoader().getResourceAsStream(FICHERO)) {
+                if (entrada == null) {
+                    throw new IOException("No se encuentra " + FICHERO + " en src/main/resources");
+                }
+                propiedades.load(entrada);
+            }
+            HikariConfig configuracion = new HikariConfig();
+            configuracion.setJdbcUrl(propiedades.getProperty("url"));
+            configuracion.setUsername(propiedades.getProperty("usuario"));
+            configuracion.setPassword(propiedades.getProperty("contrasena"));
+            configuracion.setMaximumPoolSize(5); // EDITAR: nº máximo de conexiones del pool
+            pool = new HikariDataSource(configuracion);
         }
-        Properties propiedades = new Properties();
-        try (Reader lector = new InputStreamReader(entrada, StandardCharsets.UTF_8)) {
-            propiedades.load(lector);
-        }
-        return propiedades;
+        return pool;
     }
-
-    /**
-     * Abre una conexión nueva con DriverManager.
-     *
-     * @return una conexión abierta con la base de datos ad_cine
-     */
+    // PIDE una conexión prestada al pool (ya no abre una nueva cada vez)
     public static Connection abrir() throws IOException, SQLException {
-        Properties propiedades = leerPropiedades();
-        return DriverManager.getConnection(propiedades.getProperty("url"),
-                propiedades.getProperty("usuario"), propiedades.getProperty("contrasena"));
+        return obtenerPool().getConnection();
+    }
+    // Se llama UNA vez, al terminar el programa
+    public static void cerrarPool() {
+        if (pool != null) {
+            pool.close();
+            pool = null;
+        }
     }
 }

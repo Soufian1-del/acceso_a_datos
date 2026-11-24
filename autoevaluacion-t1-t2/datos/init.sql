@@ -41,3 +41,4 @@ CREATE TABLE puestos (
     CONSTRAINT fk_puestos_persona FOREIGN KEY (fk_persona) REFERENCES personas (id_persona),
     CONSTRAINT chk_puesto CHECK (puesto IN ('DIRECCION', 'GUION', 'REPARTO'))
 ) ENGINE=InnoDB;
+select  peli.*, persona.* from peliculas left join puestos on fk_pelicula = id_pelicula left join personas on fk_persona = id_persona;

@@ -17,7 +17,6 @@ public class Principal {
     private static final String RUTA_PUESTOS = "datos/puestos.json";
 
     public static void main(String[] args) {
-        // Comprobación inicial: borra estas líneas cuando empieces el apartado 4
         try (Connection conexion = Conexion.abrir()) {
             System.out.println("Conexión correcta con " + conexion.getCatalog());
             Cine cine = new Cine(conexion);
@@ -26,15 +25,20 @@ public class Principal {
             cine.leerPersona(RUTA_PERSONAS);
             cine.leerPuesto(RUTA_PUESTOS);
             // EJERCICIO 2
-            cine.guardarTodo(conexion, cine.leerPuesto(RUTA_PUESTOS),cine.leerPersona(RUTA_PERSONAS),cine.leerPeliculas(RUTA_PELICULAS));
+            // cine.guardarTodo(conexion, cine.leerPuesto(RUTA_PUESTOS),cine.leerPersona(RUTA_PERSONAS),cine.leerPeliculas(RUTA_PELICULAS));
             // cine.insertarPelicula(conexion, cine.leerPeliculas(RUTA_PELICULAS));
             // cine.insertarPersona(conexion, cine.leerPersona(RUTA_PERSONAS));
             // cine.insertarPuesto(conexion, cine.leerPuesto(RUTA_PUESTOS));
             // EJERCICIO 3
-
+            cine.listarVideojuegos(conexion, 6);
         } catch (IOException | SQLException e) {
             System.out.println("Error: " + e.getMessage());
+        } catch (RuntimeException e) {
+            System.out.println("Error: " + e.getMessage());
+        } finally {
+            Conexion.cerrarPool(); // cierra el pool al terminar el programa
         }
+    }
 
         // Apartado 1: leer los tres ficheros JSON
 
@@ -44,4 +48,4 @@ public class Principal {
 
         // Apartado 4: hacer las conexiones con un pool
     }
-}
+
